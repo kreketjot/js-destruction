@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  max-width: 720px;
+  border: 1px solid black;
+  margin-bottom: 30px;
+  justify-content: space-between;
+}
+
+p {
+  padding: 10px;
+}
+
+.image {
+  width: 200px;
+}
